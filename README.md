@@ -70,3 +70,70 @@ A Java-based command-line **Student Management System** using core **Object-Orie
 ## 🔄 Application Flow
 
 ### 🏁 Main Menu (from `Main.java`)
+Admin Login
+
+Student Login
+
+Register Student
+
+Exit
+
+yaml
+Copy
+Edit
+
+### 👨‍🏫 Admin Flow
+- Enter password to login
+- Choose from options to:
+  - Add branch
+  - Add subjects
+  - Add exam papers
+  - View all student results
+
+### 👨‍🎓 Student Flow
+- Register with name, age, email, phone
+- System generates a unique **Student ID**
+- Login using that Student ID
+- Menu includes:
+  - View profile
+  - Select branch
+  - Choose subjects
+  - Take exams
+  - View results
+
+---
+
+## 📸 Screenshots
+
+### 🧑‍🎓 Student Registration
+![Student Registration](screenshot1.png)
+
+### 📝 Admin Adding Branch and Subjects
+![Admin Branch Subject](screenshot2.png)
+
+### 📚 Student Choosing Subjects
+![Student Subjects](screenshot3.png)
+
+### ❓ Exam Question Prompt
+![Exam Question](screenshot4.png)
+
+### 📄 Result Output
+![Result View](screenshot5.png)
+
+### 🔐 Admin Viewing All Results
+![Admin View](screenshot6..png)
+
+---
+
+## 🚀 Future Enhancements
+
+- File or database persistence
+- Multiple questions per subject
+- Student password login system
+- Grading system with marks
+
+---
+
+## 🧠 Conclusion
+
+This project is a simple yet complete example of applying OOP in a real-world Java CLI application. It 
