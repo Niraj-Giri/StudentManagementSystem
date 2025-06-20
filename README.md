@@ -78,9 +78,6 @@ Register Student
 
 Exit
 
-yaml
-Copy
-Edit
 
 ### 👨‍🏫 Admin Flow
 - Enter password to login
